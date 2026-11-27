@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-11-27
+
+### Changed
+- **Dual-licensed as MIT OR Apache-2.0.** The crate's license field now carries
+  both, matching the rest of the family.
+
 ## [0.1.0] - 2026-10-31
 
 ### Added
